@@ -1,5 +1,9 @@
-#ANTES DE INICIAR LEE ESTO!!
-
-#La vida es una lenteja
-
-#De nada
+# Periodico
+# Articulos:
+#   Tecnologia
+#   Salud
+#   Deportes
+#   Internacional
+#   Sociedad
+#   Economia
+#
